@@ -1,3 +1,11 @@
+# Education
+## University of New Hampshire
+## New Hampshire Technical Institute
+# Experience
+## Bernie Sanders Campaign
+## IPsoft
+## UNH Nuclear and Particle Physics Group
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jthibeault2005/joshthibeault.me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
