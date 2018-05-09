@@ -1,11 +1,19 @@
 # Skills
 
-# Organizational leadership
+- skill: Organizational leadership
+  description: As a field organizer on a campaign I learned how to lead a team of volunteers.  Volunteers which with direction can donate their time in the most efficient and effective way possible.
 
+- skill: IT infrastructure design
+  description: While in the UNH Physics Dept I had to constantly rethink the whole structure of the network and services to compensate for broken hardware or add new services.
 
-# Organizational leadership
-#- skill: Organizational leadership
-#  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Virtualization
+  description: VMware, KVM, or Xen are the virtualization software I am most most familiar.  Efficiency, restoration, and portability were a few reasons I preferred to use this technology.  I have had to configure virtual machines to be servers that had to share a single bridged port to serve a website or DNS.
+
+- skill: Networking
+  description: Understanding of LAN or WAN technologies and the IP or MAC addresses used to route or switch packets throughout the world.
+
+- skill: Scripting
+  description: Bash and python are the two scripting languages I am most familiar.  I have used scripting to automate services for security and maintenance purposes.
 
 # Communications strategy
 #- skill: Communications strategy
