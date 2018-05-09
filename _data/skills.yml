@@ -1,19 +1,28 @@
 # Skills
 
 - skill: Organizational leadership
-  description: As a field organizer on a campaign I learned how to lead a team of volunteers.  Volunteers which with direction can donate their time in the most efficient and effective way possible.
+  description: Experience as a field organizer and an administrator I have acquired the skills to lead a group of people.  As a field organizer I found ways to utilize people to make an operation like Get Out The Vote to run effectively and efficiently.
 
 - skill: IT infrastructure design
-  description: While in the UNH Physics Dept I had to constantly rethink the whole structure of the network and services to compensate for broken hardware or add new services.
+  description: Administration teaches one to be crafty&#47;creative in how they design their infrastructure to support users.  As a linux administrator I learned how to cater to those needs of the users and how to say no, although that was rare.  I also learned how important new technologies, like virtualization, can be in building or maintaining an IT infrastructure.
+
+- skill: Diagnostics
+  description: Troubleshooting an issue takes experience and patience.  My experience has been built over the years with a patience to look over the logs, analyze rogue processes, practice trial and error, or gain a greater in-depth knowledge of the software I am diagnosing.
 
 - skill: Virtualization
-  description: VMware, KVM, or Xen are the virtualization software I am most most familiar.  Efficiency, restoration, and portability were a few reasons I preferred to use this technology.  I have had to configure virtual machines to be servers that had to share a single bridged port to serve a website or DNS.
+  description: VMware, KVM, and Xen are the virtualization projects I am most familiar. Efficiency, resiliency, and portability were a few reasons I preferred to use this technology.  A scenario I was faced with was having different services running on different virtual machines to ease in the updates&#47;backups performed weekly, monthly, or yearly.
+
+- skill: Linux&#47;OS X
+  description: I have experience with Linux&#47;OS X in a server environment.  The infrastructure I administered handled email&#47;backups&#47;roaming profiles&#47;file sharing&#47;virtualization.
 
 - skill: Networking
-  description: Understanding of LAN or WAN technologies and the IP or MAC addresses used to route or switch packets throughout the world.
+  description: Having an understanding of LAN&#47;WAN technologies is crucial for any IT specialist wanting to excel in this field.  Software developers are interacting in the cloud more everyday.  My skills gained through CCNA&#47;CCNP courses can help while operating in the domain of software development.
 
 - skill: Scripting
-  description: Bash and python are the two scripting languages I am most familiar.  I have used scripting to automate services for security and maintenance purposes.
+  description: The ability to automate your services can mean getting a good night sleep.  As a linux administrator I familiarized myself with bash and python automate critical services.  When cleaning&#47;filtering&#47;presenting data from logs I find these two scripting languages to be most helpful.
+
+#- skill: 
+#  description: 
 
 # Communications strategy
 #- skill: Communications strategy
