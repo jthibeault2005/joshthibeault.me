@@ -1,9 +1,4 @@
 # Projects
-- project: Track Probe Requests
-  role: Founder and Primary Developer
-  duration: 2016
-  url: "_pages/project_radio.html"
-  description: A bash script that will run on a Raspberry PI.  When the PI starts it will put the antenna into promiscuous mode and collect all probe request packets.
 
 # Springfield Community Outreach Group
 #- project: Springfield Community Outreach Group
