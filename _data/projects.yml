@@ -2,7 +2,7 @@
 - project: Track Probe Requests
   role: Founder and Primary Developer
   duration: 2016
-  url: <a href="https://jthibeault2005.github.io/joshthibeault.me/_pages/project_radio.html" target="Radio Probe">Radio Probe</a>
+  url: "https://jthibeault2005.github.io/joshthibeault.me/_pages/project_radio.html"
   description: A bash script that will run on a Raspberry PI.  When the PI starts it will put the antenna into promiscuous mode and collect all probe request packets.
 
 # Springfield Community Outreach Group
